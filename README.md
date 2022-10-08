@@ -2,9 +2,8 @@
 ## Mod/Datapack for Minecraft: Java Edition
 
 Eyes In The Sky is a small Minecraft datapack that adds demon eyes from the game Terraria!
-![1](https://user-images.githubusercontent.com/26262092/187563459-c1903dd8-4cf8-474a-9c2f-79c77828d574.png)
-![2](https://user-images.githubusercontent.com/26262092/187563466-a50ecd46-9220-4330-ad25-deab3d0dca60.png)
-![3](https://user-images.githubusercontent.com/26262092/187563469-bd49fcf7-aff2-4fe1-98fc-f5ff542be8ee.png)
+![1](https://user-images.githubusercontent.com/26262092/194691749-1c80b36a-e0ea-4509-bf5b-047cd8cee871.png)
+![2](https://user-images.githubusercontent.com/26262092/194691750-63e92338-d8c0-458f-ac79-81ddac9b1f93.png)
 
 
 ## Installation
