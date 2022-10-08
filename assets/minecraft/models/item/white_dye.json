@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/white_dye"
+    },
+    "overrides":[
+       {"predicate": {"custom_model_data":1}, "model":"lunar-eyes:demon_eye/demon_eye"},
+       {"predicate": {"custom_model_data":2}, "model":"lunar-eyes:demon_eye/demon_eye_hurt"}
+    ]
+  }
