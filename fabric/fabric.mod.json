@@ -1,0 +1,25 @@
+{
+    "schemaVersion": 1,
+    "environment": "*",
+    "depends": {
+      "fabricloader": ">=0.12.12",
+      "minecraft": "1.19.x",
+      "java": ">=16",
+      "fabric-api": "*"
+    },
+    "name": "Eyes In The Sky",
+    "id": "lunar-eyes",
+    "version": "1.1.1",
+    "description": "Eyes In The Sky is a small Minecraft datapack that adds demon eyes from the game Terraria!",
+    "icon": "pack.png",
+    "authors": [
+      "§5☆Lunar Eclipse Studios☆",
+      "Bret06"
+    ],
+    "contact": {
+        "homepage": "https://lunareclipse.studio",
+        "sources": "https://github.com/LunarEclipseStudios/Eyes-In-The-Sky",
+        "discord": "https://discord.gg/RmMtqxJJgH",
+        "issues": "https://github.com/LunarEclipseStudios/Eyes-In-The-Sky/issues"
+    }
+}

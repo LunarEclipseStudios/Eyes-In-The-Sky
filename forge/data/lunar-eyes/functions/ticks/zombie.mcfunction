@@ -1,0 +1,2 @@
+execute unless blocks ~ ~1 ~ ~ 255 ~ ~ ~ ~ masked run tag @s add not_demon_eye
+execute as @e[type=zombie,tag=!not_demon_eye,sort=random] at @s if blocks ~ ~1 ~ ~ 255 ~ ~ ~ ~ masked unless entity @a[distance=..7] run function lunar-eyes:demon_eye/spawn

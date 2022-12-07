@@ -1,7 +1,0 @@
-{
-	"credit": "Made by Bret06 using Blockbench",
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "lunar-eyes:demon_eye/item/demon_eye"
-	}
-}

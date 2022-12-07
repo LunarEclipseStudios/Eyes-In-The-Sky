@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 93,
+          "name": "minecraft:spider_eye",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{CustomModelData:8890,display:{Name:'[{\"text\":\"Demon Eye\",\"italic\":false}]'}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

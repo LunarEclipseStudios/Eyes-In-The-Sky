@@ -1,0 +1,12 @@
+{
+    "entity.demon_eye.hurt": {
+        "sounds": [
+            "lunar-eyes:demon_eye/hurt"
+        ]
+    },
+    "entity.demon_eye.death": {
+        "sounds": [
+            "lunar-eyes:demon_eye/death"
+        ]
+    }
+}
