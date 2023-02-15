@@ -1,5 +1,6 @@
 # ![Eyes in The Sky](https://user-images.githubusercontent.com/26262092/194691556-308700ea-8bf8-4ba9-aa44-1347a6412692.png)
-## Mod/Datapack for Minecraft: Java Edition
+
+## **Mod/Datapack for Minecraft: Java Edition**
 
 Eyes In The Sky is a small Minecraft datapack that adds demon eyes from the game Terraria!
 
@@ -7,7 +8,7 @@ Eyes In The Sky is a small Minecraft datapack that adds demon eyes from the game
 ![2](https://user-images.githubusercontent.com/26262092/194691750-63e92338-d8c0-458f-ac79-81ddac9b1f93.png)
 
 
-## Installation
+## **Installation**
 
 #### Stable releases
 
@@ -18,7 +19,7 @@ Releases are considered to be **suitable for general use**, but they are not gua
 
 ---
 
-### Community
+## **Community**
 [![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/RmMtqxJJgH)
 
 We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joining, you can:
@@ -28,7 +29,13 @@ We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joini
 
 ---
 
-### Website
+## **License**
+
+This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Feel free to use and modify the mod/datapack as you see fit, as long as you give credit to the original authors, do not use it for commercial purposes, and share any modifications under the same license. See the [LICENSE](https://github.com/LunarEclipseStudios/Eyes-In-The-Sky/blob/main/LICENSE.md) file for more details.
+
+---
+
+## **Website**
 Feel free to check out our website!
 https://lunareclipse.studio
 
