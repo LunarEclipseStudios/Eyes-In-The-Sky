@@ -1,8 +1,7 @@
 modLoader = "lowcodefml"
 loaderVersion="[40,)"
 license="CC BY-NC-SA 4.0"
-license="None"
-logoFile="banner.png"
+issueTrackerURL="https://discord.lunareclipse.studio/"
 showAsResourcePack = false
 
 [[mods]]
@@ -11,14 +10,14 @@ version="1.2"
 displayName="Eyes In The Sky"
 credits="§8Created by §5☆Lunar Eclipse Studios☆"
 displayURL="https://lunareclipse.studio/creations/eyes-in-the-sky"
-issueTrackerURL="https://discord.lunareclipse.studio/"
+logoFile="banner.png"
 authors="Bret06"
 description='''Eyes In The Sky is a small Minecraft datapack that adds demon eyes from the game Terraria!'''
 
 [[dependencies.demon_eyes]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.21.2,1.21.4]"
+    versionRange="[1.21.2,1.21.3]"
     ordering="NONE"
     side="BOTH"
 
