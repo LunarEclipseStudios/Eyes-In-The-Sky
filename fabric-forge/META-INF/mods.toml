@@ -6,7 +6,7 @@ showAsResourcePack = false
 
 [[mods]]
 modId="demon_eyes"
-version="1.2"
+version="1.2.1"
 displayName="Eyes In The Sky"
 credits="§8Created by §5☆Lunar Eclipse Studios☆"
 displayURL="https://lunareclipse.studio/creations/eyes-in-the-sky"
@@ -17,7 +17,7 @@ description='''Eyes In The Sky is a small Minecraft datapack that adds demon eye
 [[dependencies.demon_eyes]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.21.2,1.21.3]"
+    versionRange="[1.21.2,1.21.4]"
     ordering="NONE"
     side="BOTH"
 
