@@ -17,7 +17,7 @@ description='''Eyes In The Sky is a small Minecraft datapack that adds demon eye
 [[dependencies.demon_eyes]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.21.2,1.21.3]"
+    versionRange="[1.21.2,1.21.4]"
     ordering="NONE"
     side="BOTH"
 
