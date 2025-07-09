@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spider_eye",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "lunareclipse.demon_eyes:demon_eye/item/demon_eye",
+                "minecraft:item_name": "Demon Eye"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

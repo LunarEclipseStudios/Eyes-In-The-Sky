@@ -1,0 +1,5 @@
+# List of variables used:
+# "selected_color" - The selected eye color.
+
+# Summon the eye.
+$summon phantom ~ ~ ~ {CustomName:"Demon Eye",Tags:["demon_eyes.demon_eye","demon_eyes.ai"],Silent:1b,DeathLootTable:"lunareclipse.demon_eyes:demon_eye/demon_eye",Passengers:[{id:"minecraft:item_display",view_range:1f,Tags:["demon_eyes.demon_eye","demon_eyes.model","demon_eyes.body"],item:{id:"minecraft:white_dye",count:1,components:{"minecraft:item_model":"lunareclipse.demon_eyes:demon_eye/entity/default"}},Passengers:[{id:"minecraft:item_display",brightness:{sky:15,block:15},view_range:1f,Tags:["demon_eyes.demon_eye","demon_eyes.model","demon_eyes.iris"],item:{id:"minecraft:white_dye",count:1,components:{"minecraft:item_model":"lunareclipse.demon_eyes:demon_eye/entity/iris/$(selected_color)"}}}]}],active_effects:[{id:"minecraft:invisibility",amplifier:1,duration:-1,show_particles:0b}],attributes:[{id:"minecraft:scale",base:0.75}]}
